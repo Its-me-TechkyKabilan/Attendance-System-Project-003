@@ -1,0 +1,1 @@
+This GitHub repository contains a web-based Facial Recognition Attendance System built with Python language and Streamlit framework. The System built with Face Recognition using Inception Resnet (V1) models in pytorch, pretrained on VGGFace2 and CASIA-Webface datasets, also Anti-Spoofing models by Minivision.
